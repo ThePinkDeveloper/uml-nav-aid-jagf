@@ -1,0 +1,16 @@
+{
+    "name": "nav-app",
+    "version": "1.0.0",
+    "description": "UML navigation aid",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [],
+    "author": "Miguel Rosa Alcántara",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "express": "^4.17.1"
+    }
+}
